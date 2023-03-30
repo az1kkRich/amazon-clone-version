@@ -1,0 +1,50 @@
+.img_order {
+    width: 70%;
+    height: 600px;
+    margin: 0 2rem;
+    margin-top: 2rem;
+}
+
+.pleacholder_discription {
+    margin-top: 2rem;
+}
+
+.price_tag {
+    font-size: 20px;
+    color: rgb(181, 88, 88);
+    font-weight: bold;
+}
+
+.plch_order {
+    margin-top: 100px;
+    width: 200px;
+    height: 200px;
+    margin-left: 40px;
+}
+
+.plch_butt {
+    width: 250px;
+    height: 60px;
+    border-radius: 40px;
+    margin: 5px;
+    border: 0;
+    cursor: pointer;
+    color: black;
+}
+
+.cart {
+    background-color: #ffd712;
+}
+
+.buy {
+    background-color: #ffa41b;
+}
+
+.mt-3 {
+    margin-top: 3rem;
+}
+
+.label_left {
+    display: block;
+    margin: 14px 0;
+}

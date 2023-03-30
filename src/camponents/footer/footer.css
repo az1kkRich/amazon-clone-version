@@ -1,0 +1,25 @@
+.footer_info {
+    padding: 5rem;
+    background-color: #232F3E;
+}
+
+.content_footer {
+    display: flex;
+    padding: 0 5rem;
+}
+
+.w-25 {
+    width: 25%;
+    color: #fff;
+}
+
+.w-25 h3 {
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.w-25 p {
+    cursor: pointer;
+    font-size: 13px;
+}

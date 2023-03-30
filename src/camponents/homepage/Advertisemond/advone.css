@@ -1,0 +1,35 @@
+.advone_main {
+    width: 330px;
+    min-height: 440px;
+    background-color: azure;
+    box-shadow: 1px 1px 50px rgba(0, 0, 0, .7);
+}
+
+.advone_header {
+    font-size: 21px;
+    line-height: 27px;
+    font-weight: bold;
+    color: #0F1111;
+    padding: 15px;
+}
+
+.card_img {
+    width: 290px;
+    height: 300px;
+    margin: 10px auto;
+}
+
+.advone_footer a{
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.advone_footer {
+    position: relative;
+    bottom: 0;
+}
+
+.advone_footer a:hover {
+    color: #FEBE68;
+    text-decoration: underline;
+}

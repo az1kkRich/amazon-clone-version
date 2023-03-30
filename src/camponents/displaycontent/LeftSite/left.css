@@ -1,0 +1,16 @@
+.LeftSize_main {
+    width: 300px;
+    height: 100%;
+    border-right: 2px solid #DDD;
+    border-top: 2px solid #DDD;
+}
+
+.label_left {
+    display: block;
+    margin: 14px 0;
+}
+
+.Label {
+    margin-top: 3rem;
+    margin-left: 3rem;
+}

@@ -1,0 +1,47 @@
+.RightSize_main {
+    height: 100%;
+}
+
+.Product_card {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.header {
+    margin-top: 3rem;
+    margin-left: 3rem;
+    
+}
+
+.imgpro {
+    width: 100%;
+    height: 100%;
+}
+
+.pro_img {
+    width: 80%;
+    margin: 0 auto;
+    height: 400px;
+}
+
+.card {
+    width: 350px;
+    height: 500px;
+}
+
+.pro_name {
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: bold;
+    margin: 10px 20px;
+}
+
+.pro_price {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 5px 20px;
+}
+
+.pro_rating {
+    margin: 5px 20px;
+}
