@@ -44,7 +44,7 @@ class Navbar extends Component {
 									</select>
 								</div>
 								<div className="">
-									<input type="text" className="navbar_searchbox" />
+									<input type="text" className="navbar_searchbox" placeholder="Search..." />
 								</div>
 								<div className="search_icondiv">
 									<div className="search_icon"></div>
